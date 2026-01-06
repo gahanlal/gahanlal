@@ -1,14 +1,11 @@
-👋 Hi, I’m @gahanlal
+👋 Hi, I’m Gahan
 
-👀 I’m interested in AI, Machine Learning, Data Science, and Software Development
+🧠 AI Engineer focused on Generative AI and intelligent systems
+⚙️ Building products that turn complexity into clarity
 
-🌱 I’m currently learning Python, R, and AI/ML frameworks
+🚀 Currently building and experimenting with AI-driven applications
+💡 Interested in AI/ML, product engineering, and real-world deployment
 
-💞️ I’m looking to collaborate on AI projects, software development, and data analysis
+🤝 Open to collaborating on thoughtful AI projects and products
 
-📫 How to reach me: lalgahan@gmail.com
-<!---
-gahanlal/gahanlal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+📫 Reach me at: lalgahan@gmail.com
